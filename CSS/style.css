@@ -1,0 +1,121 @@
+html, body { 
+  scroll-behavior:smooth; 
+  overflow-y: hidden;
+  overflow-x: hidden;
+  background-color: black;
+}
+
+.box {
+  font-family: 'Press Start 2P', cursive;
+  margin: 500px 10px 0px 0px;
+  position: absolute;
+  border-style: solid;
+  border-color: white;
+  background-color: rgba(0,0,0,0.5);
+  width: 1400px;
+  height: 140px;
+  padding: 5px 10px;
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+a:hover   {color:grey;}
+
+.pic {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1437px;
+  height: 635px;
+}
+
+.option1{
+  font-family: 'Press Start 2P', cursive;
+  margin: 120px 400px;
+  position: absolute;
+  border-style: solid;
+  border-color: rgba(0,0,255,0.7);
+  background-color: rgba(0,0,255,0.5);
+  width: 600px;
+  height: 30px;
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+.option2{
+  font-family: 'Press Start 2P', cursive;
+  margin: 170px 400px;
+  position: absolute;
+  border-style: solid;
+  border-color: rgba(0,0,255,0.7);
+  background-color: rgba(0,0,255,0.5);
+  width: 600px;
+  height: 30px;
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+.option3{
+  font-family: 'Press Start 2P', cursive;
+  margin: 220px 400px;
+  position: absolute;
+  border-style: solid;
+  border-color: rgba(0,0,255,0.7);
+  background-color: rgba(0,0,255,0.5);
+  width: 600px;
+  height: 30px;
+  font-size: 25px;
+  color: whitesmoke;
+}
+
+.title {
+  font-family: 'Press Start 2P', cursive;
+  margin: 30px 300px;
+  width: 1440px;
+  height: 30px;
+  padding: 10px 10px;
+  font-size: 60px;
+  color: whitesmoke;
+}
+
+.subtitle {
+  font-family: 'Press Start 2P', cursive;
+  position: relative;
+  margin: 100px 300px;
+  width: 790px;
+  height: 280px;
+  padding: 10px 10px;
+  font-size: 18px;
+  color: whitesmoke;
+}
+
+.samurai {
+  color: dodgerblue;
+}
+
+.lolita {
+  color:orange;
+}
+
+.enemy{
+  color:indigo;
+}
+
+.eli{
+  color:skyblue;
+}
+
+.dj{
+  color:greenyellow;
+}
+
+.v{
+  color:rgb(227, 66, 52);
+}
+.r{
+  color:cyan;
+}
+
+.passer{
+  color: whitesmoke;
+}
